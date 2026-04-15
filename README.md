@@ -46,15 +46,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chirag373&show_icons=true&theme=default&hide_border=true" alt="Chirag's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag373&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="40%" />
-</p>
-
----
-
 ### 🚀 Currently Exploring
 
 - 🤖 **LLMOps** — managing and deploying large language model pipelines
