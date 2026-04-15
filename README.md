@@ -74,7 +74,7 @@
   <a href="https://github.com/Chirag373" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/chirag-oza" target="blank">
+  <a href="https://www.linkedin.com/in/chiragoza-fullstack/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
