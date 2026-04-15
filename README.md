@@ -14,7 +14,7 @@
 - 💡 Passionate about building clean backends and AI-powered solutions
 - 📍 Based in **Mumbai, India**
 - 💬 Ask me about **Python, Django, REST APIs, HTML/CSS**
-- 📫 Reach me at: **chirag373@github.com**
+- 📫 Reach me at: **Ozachirag22@gmail.com**
 
 ---
 
